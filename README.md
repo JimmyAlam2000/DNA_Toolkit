@@ -1,21 +1,25 @@
-DNA Toolkit is an educational project designed to introduce basic bioinformatics operations in Python. With this repo, users and developers—especially those learning programming or computational biology—can:
+# 🧬 DNA Toolkit
 
-Validate DNA sequences
+A beginner-friendly DNA sequence analysis toolkit built with Python. This toolkit is designed for learning, exploration, and simple computational biology tasks like transcription, translation, validation, and GC content calculation.
 
-Count nucleotide composition
+---
 
-Transcribe DNA → RNA
+## 🚀 Features
 
-Generate reverse complements
+- ✅ DNA sequence validation
+- 🧪 Transcription (DNA → RNA)
+- 🔁 Reverse complement generation
+- 🧬 Translation to protein (using codon table)
+- 📊 GC content calculation
+- 🔢 Random DNA sequence generation
+- ⚙️ Codon usage frequency calculation
 
-Compute GC content
+---
 
-Future plans might include:
+## 📦 Installation
 
-GUI-based visualization (e.g., nucleotide frequency graphs)
+Clone the repository:
 
-Translation of DNA to protein
-
-Structural features like ORF detection
-
-This toolkit serves as both a practical utility and a learning resource for anyone beginning in sequence analysis and Python programming.
+```bash
+git clone https://github.com/JimmyAlam2000/DNA_Toolkit.git
+cd DNA_Toolkit
