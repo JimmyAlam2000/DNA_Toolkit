@@ -1,0 +1,7 @@
+GGGACUGUGGGUAAAGCUAUUUAAGGCAGAGCGCCCUGUG
+['G', 'T', 'V', 'G', 'K', 'A', 'I', '_', 'G', 'R', 'A', 'P', 'C']
+['G', 'L', 'W', 'V', 'K', 'L', 'F', 'K', 'A', 'E', 'R', 'P', 'V']
+['D', 'C', 'G', '_', 'S', 'Y', 'L', 'R', 'Q', 'S', 'A', 'L']
+['H', 'R', 'A', 'L', 'C', 'L', 'K', '_', 'L', 'Y', 'P', 'Q', 'S']
+['T', 'G', 'R', 'S', 'A', 'L', 'N', 'S', 'F', 'T', 'H', 'S', 'P']
+['Q', 'G', 'A', 'L', 'P', '_', 'I', 'A', 'L', 'P', 'T', 'V']
